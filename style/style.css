@@ -1,0 +1,62 @@
+body{
+    background-color: #F3F1FF ;
+
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.cont-width{
+    max-width: 870px;
+    margin: auto;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
+.card{
+    border: none;
+}
+.top-blog p{
+    color: #562EFF;
+}
+h3{
+    color: #562EFF;
+
+}
+.topplayer{
+    padding: 40px;
+    margin-top: 100px;
+}
+.top-blog{
+    padding:10px 40px;
+}
+.courses{
+    padding:40px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+.icon{
+    width: 10px;
+}
+.watch{
+    width: 20px;
+    
+}
+.para-color{
+    color: #ED6B4F;
+}
+.time{
+    width: 90px;
+    height: 30px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    background-color: #FFE4E8;
+    text-align: center;
+}
